@@ -50,11 +50,11 @@ export function Footer() {
             <ul className="space-y-3">
               <li className="flex items-center text-gray-400">
                 <Mail className="h-4 w-4 mr-2 text-green-400" />
-                suporte@primeform.pt
+                suportprimeform@gmail.com
               </li>
               <li className="flex items-center text-gray-400">
                 <Phone className="h-4 w-4 mr-2 text-green-400" />
-                +351 912 345 678
+                +351 935949961
               </li>
               <li className="flex items-center text-gray-400">
                 <MapPin className="h-4 w-4 mr-2 text-green-400" />
