@@ -12,7 +12,7 @@ export function Pricing() {
   const plans = [
     {
       name: "Starter",
-      price: "29",
+      price: "9,99",
       description: "Perfeito para começar sua jornada",
       features: [
         "Avaliação por foto básica",
@@ -25,7 +25,7 @@ export function Pricing() {
     },
     {
       name: "Prime",
-      price: "59",
+      price: "19,99",
       description: "O mais popular para resultados sérios",
       features: [
         "Avaliação por foto avançada",
@@ -40,7 +40,7 @@ export function Pricing() {
     },
     {
       name: "Elite",
-      price: "99",
+      price: "39,99",
       description: "Transformação completa e premium",
       features: [
         "Avaliação por foto premium",
